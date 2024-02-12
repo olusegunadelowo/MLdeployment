@@ -1,0 +1,4 @@
+Video: https://www.youtube.com/watch?v=rgr_aCg-338&list=PPSV
+Deployment Notebook: https://jovian.com/biraj/deploying-a-machine-learning-model
+Source Code: https://github.com/BirajCoder/Email-Spam-Classifier-v2/tree/main
+Model Training Notebook: https://jovian.com/birajde9/email-spam-classifier-naive-bayes
